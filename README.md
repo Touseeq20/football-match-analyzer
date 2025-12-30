@@ -84,5 +84,5 @@ All detections are fused together. For example, a "Goal" event is saved to the `
 
 ## 👤 Author
 
-**Touseeq Ahmed**
+**Muhammad Touseeq AI/ML Engineer**
 - GitHub: [@Touseeq20](https://github.com/Touseeq20)
